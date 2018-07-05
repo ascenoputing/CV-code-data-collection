@@ -1,0 +1,852 @@
+Image denoising
+•	Bayesian Structured Sparse Coding (BSSC)
+•	Wavelet-based soft/hard thresholding and TI denoising Wavelab
+•	Spatially adaptive image denoising under overcomplete expansion   SA-OE
+•	Low-complexity image denoising based on statistical modeling of wavelet coefficients code
+•	Bayesian Least-Square Gaussian Scalar Mixture  BLS-GSM
+•	Wavelet-domain HMM for image denoising  WHMT
+•	Fields of experts model for image denoising  FoE
+•	Learning sparse representation for image denoising K-SVD
+•	Shape adaptive DCT based image denoising  SA-DCT
+•	Nonlocal mean based image denoising code code2
+•	Block matching 3D (BM3D) image denoising  BM3D
+•	Product of Edgeperts denoising  PoEdges
+•	Total Least-Square (TLS) image denoising  TLS
+•	AVMF color image denoising  AVMF
+•	Multiscle LMMSE-based image denoising   code
+•	Kernel regression based image denoising  code
+•	Belief propagation for image restoration  code
+•	Gaussian Field-of-Expert (GFoE) denoising  code
+•	Active random field learning code
+•	Clustering-based Denoising using Locally Learned Dictionaries (K-LLD)
+•	Local Pixel Grouping (LPG)-PCA image denoising
+•	Leaning simultaneous sparsity coding (LSSC) code (only runs on 64-bit Linux machine with MATLAB)
+•	BM3D image denoising with shape - adaptive principal component analysis (BM3D-SAPCA) code
+•	Learning Non-Local Range Markov Random Field for Image Restoration code
+•	Image denoising via dictionary learning and structural clustering
+•	From Learning Models of Natural Image Patches to Whole Image Restoration code
+•	Image denoising: Can plain Neural Networks compete with BM3D?
+•	Patch-based Locally Optimal Wiener Filtering for Image Denoising
+•	Nonparametric Bayesian Dictionary Learning for Analysis of Noisy and Incomplete Images code
+•	Spatially adaptive iterative singular-value threshodlign (SAIST) code
+•	Image Denoising using the Higher Order Singular Value Decomposition code
+•	Dual-Domain Image Denoising code
+•	Progressive image denoising code
+Image coding
+•	JPEG-LS standardLOCO-I
+•	Context-Based, Adaptive, Lossless Image Coding  CALIC
+•	Edge directed prediction for lossless image compression EDP
+•	TMW lossless image compression Download Code (lost in cyberspace)
+•	Minimum rate prediction with DP-based optimization  Code
+•	Embedded Predictive Wavelet Image Coder  Code
+•	SPIHT image codec  SPIHTMATLAB codes (third-party implementation)
+•	Estimation Quantization lossy image codec EQ
+•	Least-Square Estionation Quantization Codec LS-EQ
+•	EBCOT codec for JPEG2000  EBCOT
+•	Multiple description coding with prediction compensationcode
+•	Multiple description image coding based on lagrangian rate allocation code
+Image demosaicing
+•	Primary-consistent soft-decision (PCSD)-based schemeexecutable
+•	Alternate projection (AP)-based scheme AP
+•	Adaptive Homogeneity-Directed (AHD) demosaicing  AHD
+•	DLMMSE demosaicing   DLMMSE
+•	Demosaicing by successive approximation  SA
+•	Demosaicing by directional filtering and a posteriori decision  dfapd
+•	LPA-ICI demosaicing LPA-ICI
+•	A Model of Retinal Local Adaptation for the Tone Mapping of Color Filter Array Images
+•	Leaning simultaneous sparsity coding (LSSC) code (only runs on 64-bit Linux machine with MATLAB)
+•	PCA-based Spatially Adaptive Denoising of CFA Images for Single-Sensor Digital Cameras code
+•	Self-similarity driven image demosaicing
+•	Color Demosaicking by Local Directional Interpolation and Non-local Adaptive Thresholding code
+•	Residual Interpolation for color image demosaicking
+•	Vector-Valued Image Processing by Parallel Level Sets
+•	Exploitation of Inter-color correlation for Color Image Demosaicing
+Image interpolation and Superresolution
+•	Linear interpolation revitalized
+•	New edge directed interpolation (NEDI) code
+•	Signal Discrete Sinc-interpolation in DCT Domain code
+•	Directional filtering and data fusion  DFDF
+•	Wavelet-based texture image interpolation  wt_interp
+•	Fast and robust superresolution (SR) toolbox  UCSC-SR
+•	Superresolution for synthetic zooming  syn_zoom
+•	EPFL's frequency-domain approach  EPFL
+•	Support vector machine based image superresolution  result
+•	Image interpolation using multiscale geometric representations  Code
+•	Kriging-based Best Linear Unbiased Estimator   Code
+•	Image interpolation by adaptive 2D autoregressive modeling and soft-decision estimation   Executable
+•	Super-resolution GUI developed by Bahadir at LSU
+•	Multi-frame image super-resolution
+•	Super-resolution via sparse coding  code
+•	Super-resolution through neighbor embedding code
+•	Super-resolution with sparse mixing estimators
+•	Machine learning in multi-frame SR
+•	Example-based learning for super-resolution
+•	Super Resolution using Edge Prior and Single Image Detail Synthesis code
+•	Binary halftone image resolution increasing by decision tree learning
+•	Simultaneous motion deblurring and super-resolution
+•	Exploiting Self-Similarities for Single Frame Super-Resolution code
+•	Fast image/video upsampling (binary executables only)
+•	Image deblurring and supper-resolution by adaptive sparse domain selection and adaptive regularization code
+•	Image and video upsampling from local self-examples code(third-party implementation)
+•	Semi-Coupled Dictionary Learning with Applications to Image Super-resolution and Photo-Sketch Synthesis
+•	Sparse Representation based Image Interpolation with Nonlocal Autoregressive Modeling
+•	Structured Face Hallucination code
+•	Anchored Neighborhood Regression for Fast Example-Based Super-Resolution code
+•	Fast direct super-resolution by simple functions
+•	A+: adjusted anchored neighborhood regression for fast super-resolution
+•	Image Super-Resolution Using Deep Convolutional Networks
+•	Hyperspectral Image Super-resolution via Non-negative Structured Sparse Representation
+Hyperspectral/Multispectral image processing
+•	Hyperspectral and Multispectral Image Fusion based on a Sparse Representation code
+•	Bayesian fusion of multi-band images code
+•	Hyperspectral pansharpening: a review code
+•	Minimum Volume Simplex Analysis: A Fast Algorithm for Linear Hyperspectral Unmixing code
+•	Multiple Feature Learning for Hyperspectral Image Classification code
+•	Generalized Composite Kernel Framework for Hyperspectral Image Classification code
+•	Spectral-Spatial Classification of Hyperspectral Data Using Loopy Belief Propagation and Active Learning code
+•	Spectral-Spatial Hyperspectral Image Segmentation Using Subspace Multinomial Logistic Regression and Markov Random Fields code
+•	Hyperspectral Image Segmentation Using a New Bayesian Approach with Active Learning code
+•	Semi-Supervised Hyperspectral Image Segmentation Using Multinomial Logistic Regression with Active Learning code
+•	Hyperspectral Image Super-resolution via Non-negative Structured Sparse Representation
+Image segmentation, parsing and matting
+•	Image segmentation by normalized cut  Ncut
+•	Epitome-based image segmentation  epitome
+•	Bayesian multiscale image segmentation SMAP
+•	Graph-cut Based Image Segmentation  segment Code2
+•	EDISON System  EDISON Code2
+•	Pfinder system  Pfinder
+•	A closed form solution to image matting  matting
+•	Spectral matting  code
+•	Level set evolution without reinitialization  Code
+•	Implicit active contour driven by local binary fitting energy Code
+•	Snakes, Shapes, and Gradient Vector Flow  Code
+•	Unsupervised learning of finite mixture model  Code
+•	DDMCMC Image Segmentation
+•	Image Segmentation by Generalized SW-cuts
+•	A generalized model for scratch detection
+•	Biased normalized cut
+•	Power Watersheds (iccv'2009) code
+•	Global contrast based salient region detection
+•	Generalizing Swendsen-Wang to sampling arbitrary posterior probabilities code
+•	Interactive segmentation toolbox (GrabCut+LazySnap)
+•	Geodesic Star Convexity for Interactive Image Segmentation
+•	Distributed Cosegmentation via Submodular Optimization on Anisotropic Diffusion code
+•	Segmenting Scenes by Matching Image Composites
+•	Automatic Image Segmentation by Dynamic Region Merging code
+•	Interactive Images: Cuboid Proxies for Smart Image Manipulation
+•	Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
+•	Image Segmentation with Cascaded Hierarchical Models and Logistic Disjunctive Normal Networks code
+•	Nonlocal Matting
+•	KNN matting
+•	Unsupervised Joint Object Discovery and Segmentation in Internet Images
+Image deblurring
+•	Fourier-Wavelet Regularized Deconvolution  ForWard
+•	Pointwise SA-DCT regularized deconvolution  SA-DCT
+•	Image deconvolution using a natural image prior  Code
+•	Total-Variation (TV) based image deblurring  Code
+•	Two-step iterative shrinkage/thresholding algorithms for image restoration Code
+•	Iterative methods for image restoration   Code
+•	ICA Toolbox for blind image separation
+•	L0-AbS Deblur 1.0
+•	Regularized Kernel Regression-Based Deblurring (AKTV)
+•	Projection-based deblurring with fine-granularity and spatially adaptive regularization
+•	Fast Gradient-Based Algorithms for Constrained Total Variation Image Deblurring code
+•	Image deblurring by adaptive sparse domain selection and adaptive regularization code
+•	Fast Image Deconvolution using Hyper-Laplacian Priors
+•	BM3D Frames and Variational Image Deblurring code
+•	Centralized Sparse Representation for Image Restorationcode
+•	Bayesian Structured Sparse Coding (BSSC)
+•	Image Restoration Using Joint Statistical Modeling in Space-Transform Domain
+Blind image deblurring
+•	Removing Camera Shake from a Single Image code_request_form
+•	High-quality blind motion deblurring (executables only)
+•	Quality measure for Blind deblurring methods
+•	Eficient Marginal Likelihood Optimization in Blind Deconvolution code
+•	Analyzing spatially varying blur
+•	Fast motion deblurring
+•	Two-phase kernel estimation for robust motion deblurring
+•	Blind deconvolution using a normalized sparsity measure
+•	Efficient Deblurring for Shaken and Partially Saturated Images
+•	Fast Removal of Non-uniform Camera Shake
+•	Multi-frame Blind Deconvolution with Super-resolution and Saturation Correction
+•	Robust Multichannel Blind Deconvolution via Fast Alternating Minimization
+•	Benchmarking blind deconvolution with a real-world database (dataset only)
+•	Frequency domain blind deconvolution in multiframe imaging using anisotropic spatially-adaptive denoising
+•	Handling Noise in Single Image Deblurring using Directional Filters
+Texture synthesis
+•	Reaction-diffusion textures code
+•	Texture synthesis via a noncausal nonparametric multiscale Markov random field code
+•	Pyramid Based Texture Analysis/Synthesis code
+•	Wavelet-domain parametric model  code
+•	Texture synthesis by nonparametric sampling code (third-party implementation)
+•	Image quilting code code2
+•	Synthesizing Natural Textures code
+•	Texture Optimization for Example-based Synthesis code(third-party implementation)
+•	Parallel controllable texture synthesis code
+•	Graphcut Textures: Image and Video Synthesis Using Graph Cuts code (third-party implementation)
+•	Random Phase Textures: Theory and Synthesis code
+•	Higher Order SVD Analysis for Dynamic Texture Synthesis
+•	Symmetry-Guided Texture Synthesis and Manipulation
+Physics-based image processing
+•	Single Image Haze Removal code (third-party implementation)
+•	Efficient Image Dehazing with Boundary Constraint and Contextual Regularization code
+•	Singel image dehazing (only toy example included)
+•	Single Image Visibility Restoration Comparison
+•	Automatic single-frame-based rain streak removal via image decomposition code
+•	Removing Atmospheric Turbulence via Space-Invariant Deconvolution
+•	Automatic Recovery of the Atmospheric Light in Hazy Images
+•	Blind Separation of Superimposed Moving Images Using Image Statistics code
+•	
+Image inpainting
+•	Exemplar-based image inpainting  code
+•	Fields of experts model for image inpainting  FoE
+•	Image recovery via adaptive sparse representation code
+•	Least-Square based sequential error concealment  nsec
+•	Patch-based nonlocal error concealment
+•	Image recovery via hybrid sparse representation
+•	Higher Order SVD Analysis for Dynamic Texture Synthesis
+•	TV-based image inpainting code code2
+•	Robust Locally Linear Analysis with Applications to Image Denoising and Blind Inpainting code
+•	Non-Parametric Bayesian dictionary learning for sparse image representations code
+•	Hierarchical super-resolustion-based inpainting
+PDE-based image processing
+•	Perona-Malik nonlinear diffusion  code code2
+•	Total variation based image denoising code code2
+•	Curvature-Driven Diffusion based image inpainting code
+•	Shock filter for image enhancement   code
+•	Weickert's anisotropic diffusion  code
+•	Mean curvature diffusion (MCD)   code
+•	A variational method for image recovery code
+•	Speckle reducing anisotropic diffusion code
+•	Parametric Maximum Flow Algorithmsfor Fast Total Variation Minimization code
+•	An Algorithm for Nonlocal TV Minimization
+•	Vector-Valued Image Processing by Parallel Level Sets
+Image quality assessment
+•	Universal image quality index   code
+•	Structural SIMilarity (SSIM) index   code
+•	Degradation model  code
+•	FSIM: A Feature Similarity Index for Image Quality Assessment code
+•	A No-Reference Objective Image Sharpness Metric Based on the Notion of Just Noticeable Blur code
+•	An Improved No-Reference Sharpness Metric Based on the Probability of Blur Detection code
+•	Gradient Magnitude Similarity Deviation: A Highly Efficient Perceptual Image Quality Index
+Biometrics
+•	Fingerprint enhancement and matching
+•	Daugman's iris recognition algorithm implementation
+•	Photorealistic Models for Pupil Light Reflex and Iridal Pattern Deformation
+•	Gabor Feature based Sparse Representation for Face Recognition code
+•	Robust Sparse Coding for Face Recognition code
+•	Jialong He's Speaker Recognition (Identification) Tool
+•	Unsupervised Salience Learning for Person Re-identification
+•	Pose-free Facial Landmark Fitting via Optimized Part Mixtures and Deformable Shape Model
+•	Robust Sparse Coding for Face Recognition code
+•	Sparse Representation or Collaborative Representation: Which Helps Face Recognition? code
+Gradient-domain image processing
+•	Distributed Gradient-Domain Processing of Planar and Spherical Images
+•	GradientShop:A Gradient-Domain Optimization Framework for Image and Video Filtering
+•	Local Laplacian Filters: Edge-aware Image Processing with a Laplacian Pyramid
+•	Domain Transform for Edge-Aware Image and Video Processing
+•	Image Smoothing via L 0 Gradient Minimization
+•	Guided image filtering
+•	Gaussian curvature filtering for spectrally regularized surfaces code
+Video coding
+•	MPEG-1/2 reference software
+•	H.263/H.263+ reference software
+•	MPEG4 reference software (MoMuSys version)
+•	H.264/AVC reference software
+•	3D SPIHT video coding code
+•	DISCOVER video codec for DVC
+•	HEVC (H.265) Refence model in development
+Texture/Shape/Image classification
+•	Wavelet-based GDD and KL-distance code
+•	Local binary pattern (LBP) based
+•	Filter bank based at Visual Geometry Group
+•	A Completed Modeling of Local Binary Pattern Operator for Texture Classification code
+•	Shape Classification Using the Inner-Distance code
+•	Deformed Lattice Detector code
+•	Ensemble Projection for Semi-supervised Image Classification
+Object detection/recognition
+•	Adaboost method    code
+•	Biologically inspired object recognition  code
+•	Hierarchical Models of Object Recognition in Cortex  code
+•	Scalable recognition with a vocabulary tree Code
+•	Shock graphscode
+•	Shape contexts  code
+•	Robust nonrigid point matching   Code
+•	Histograms of Oriented Gradients (HOG) code
+•	Pyramid histogram of oriented gradients (PHOG)
+•	Beyond Bag of features Code
+•	SuperParsing Code
+•	Aggregating Gradient Distributions into Intensity Orders
+•	Matching Local Self-Similarities across Images and Videoscode (third-party implementation)
+•	Deformed lattice detection in real-world images
+•	Feature-Centric Efficient Subwindow Search code
+•	Poselets: Body Part Detectors Trained Using 3D Human Pose Annotations code
+•	Ensemble of Exemplar-SVMs for Object Detection and Beyond
+•	Discriminative Learning of Relaxed Hierarchy for Large-scale Visual Recognition code
+•	Multiple Kernels for Object Detection
+•	Ensemble of Exemplar-SVMs for Object Detection and Beyond
+•	Towards Total Scene Understanding: Classification, Annotation and Segmentation in an Automatic Framework
+•	Object Bank: A High-Level Image Representation for Scene Classification and Semantic Feature Sparsification
+•	Informative Feature Selection for Object Recognition via Sparse PCA code
+•	Linear Spatial Pyramid Matching using Sparse Coding for Image Classification code
+•	Locality-constrained Linear Coding for Image Classificationcode
+•	MIT LabelMe Open Annotation tool
+•	Stream-based Joint Exploration-Exploitation Active Learning code
+•	BoF meets HOG: Feature Extraction based on Histograms of Oriented p.d.f Gradients for Image Classification code
+•	Discriminatively trained deformable part models
+•	Joint Deep Learning for Pedestrian Detection
+Image registration/mosaicing/OFE
+•	Affine SIFT (ASIFT) with online demo
+•	SIFT Flow: Dense Correspondence across scenes
+•	Lukas-Kanade algorithm  code code2
+•	SIFT feature correspondence code code2 code3
+•	Local binary pattern (LBP)   code
+•	Speed up robust features (SURF)
+•	Compact And Real-time Descriptors (CARD)
+•	Maximally stable extremal regions (MSER)  code
+•	Graph-cut based  optical flow estimation   code
+•	Pyramid-based hierarchical motion estimation  Code
+•	Affine Motion Estimation for Medical Image Registration Code
+•	A frequency-domain approach toward image registration Code
+•	Blended Intrinsic Maps
+•	An Efficient Earth Mover's Distance Algorithm for Robust Histogram Comparison code
+•	Diffusion Distance for Histogram Comparison code
+•	Coherency Sensitive Hashing
+•	Fast Template Matching in Non-Linear Tone-Mapped Images code
+•	BRIEF: Binary Robust Independent Elementary Features
+•	Autostitch developed for Apple iPhone
+•	Ztitch developed for Windows Phone
+•	Image Matching using Local Symmetry Features
+•	Secrets of optical flow estimation and their principles(Matlab code)
+•	Segmentation Based Variational Model for Accurate Optical Flow Estimation (Code)
+•	Total variation regularization of local-global optical flow
+•	Motion Detail Preserving Optical Flow Estimation
+•	Large displacement optical flow: descriptor matching in variational motion estimation code
+•	FAsT-Match: Fast Affine Template Matching
+•	Pose-free Facial Landmark Fitting via Optimized Part Mixtures and Deformable Shape Model
+•	Deformable Spatial Pyramid Matching for Fast Dense Correspondences
+•	Nonlocal sparse and low-rank regularization for optical flow estimation code
+Action/event/scene recognition
+•	Human Activity Detection from RGBD Images
+•	Action MACH: a spatio-temporal maximum average correlation height filter for action recognition
+•	Evaluation of local spatio-temporal features for action recognition
+•	2D Action Recognition Serves 3D Human Pose Estimation
+•	Hierarchical Mean Shift, Space-Time Segmentation and Action Recognition
+•	Human Activity Recognition with Metric Learning
+•	A Hough Transform-Based Voting Framework for Action Recognition
+•	Learning hierarchical spatio-temporal features for action recognition with independent subspace analysis
+•	Recognizing Scene Viewpoint using Panoramic Place Representation
+•	Multimodal Decomposable Models for Human Pose Estimation
+Visual tracking
+•	Object detection and tracking in motion sequence
+•	Incremental Learning for Robust Visual Tracking code
+•	Online Visual Tracking with Histograms and Articulating Blocks code
+•	Kanade-Lucas-Tomasi Feature Tracker
+•	SIFT keypoint detector code2 code3
+•	Speeded-Up Robust Features (SURF)
+•	Histogram of oriented gradients (HOG) based human detection
+•	HOGgles: Visualizing Object Detection Features
+•	Visual tracking using appearance model and particle filters
+•	Video Object Segmentation by Tracking Regions code
+•	Visual tracking decomposition
+•	Robust Visual Tracking using L1 Minimization code
+•	Visual Tracking via Adaptive Structural Local Sparse Appearance Model
+•	Robust Object Tracking via Sparsity-based Collaborative Model
+•	Discrete-Continuous Optimization for Multi-Target Tracking
+•	Multi-Target Tracking by Continuous Energy Minimization
+•	Distribution Fields for Tracking
+•	Least Soft-threshold Squares Tracking code
+•	HOGgles: Visualizing Object Detection Features
+•	Online Robust Non-negative Dictionary Learning for Visual Tracking
+•	The Way They Move: Tracking Targets with Similar Appearance
+•	Real-time compressive tracking
+Saliency/Objectness Detection
+•	Learning to Detect A Salient Object code (third-party implementation)
+•	Dynamic visual attention: searching for coding length increments code
+•	What is an object?
+•	Saliency Detection: A Spectral Residual Approach
+•	Image Classification: An Integration of Randomization and Discrimination 
+in A Dense Feature Representation
+•	Saliency filters: contrast based filtering for salient region detection code
+•	Global Contrast based Salient Region Detection
+•	Frequency-tuned salient region detection
+•	Saliency, attention, and visual search: An information theoretic approach
+•	Saliency detection using maximum symmetric surround
+•	Segmenting salient objects from images and videos
+•	Static and space-time visual saliency detection by self-resemblance
+•	SUN: A bayesian framework for saliency using natural statistics
+•	Saliency estimation using a non-parametric low-level vision model
+•	model of saliency-based visual attention for rapid scene analysis
+•	Graph-based visual saliency
+•	Context-aware saliency detection
+•	Salient region detection and segmentation
+•	Automatic salient object segmentation based on context and shape prior
+•	Saliency Detection via Graph-based Manifold Ranking
+•	Kernel Null Space Methods for Novelty Detection
+•	Efficient Salient Region Detection with Soft Image Abstraction
+•	A Unified Approach to Salient Object Detection via Low Rank Matrix Recovery
+•	Saliency Optimization from Robust Background Detectioncode
+ 
+Low rank methods
+•	Efficient Computation of Robust Low-Rank Matrix Approximations in the Presence of Missing Data using the L1 Norm code
+•	Low-Rank Matrix Recovery and Completion via Convex Optimization
+•	Predictive low-rank decomposition for kernel methods
+•	Improved Nyström Low-rank Approximation for Scalable Manifold Learning
+•	RASL: Robust Batch Alignment of Images by Sparse and Low-Rank Decomposition
+•	TILT: Transform Invariant Low-rank Textures
+•	Nonlocal sparsity regularized image restoration: a low-rank approach code
+•	Bayesian Robust Matrix Factorization for Image and Video Processing
+•	Motion Saliency Detection Using Low-rank and Sparse Decomposition code
+•	Low-rank Modeling and its Applications in Image Analysis
+•	Moving Object Detection by Detecting Contiguous Outliers in the Low-Rank Representation
+Deep Learning
+•	DeepLearnToolbox
+•	Deep Belief Networks
+•	Convolutional deep belief network
+•	Learning Deep Boltzmann Machines
+•	Conditional RBMs/DBNs
+•	Neocognitron
+•	Convolutional/Deconvolutional networks
+•	Invariant scattering convolution network
+•	Marginalized Stacked Denoising Autoencoders
+•	Joint Deep Learning for Pedestrian Detection
+•	Pedestrian Parsing via Deep Decompositional Neural Network
+•	Deep Learning Identity Preserving Face Space
+•	Deep Convolutional Network Cascade for Facial Point Detection
+Manifold learning and embedding
+•	A Global Geometric Framework for Nonlinear Dimensionality Reduction    code
+•	Nonlinear Dimensionality Reduction by Locally Linear Embedding   code
+•	Laplacian Eigenmaps  code
+•	Diffusion maps code
+•	Manifold learning toolbox&demo
+•	Learning distance metric
+•	Diffusion processes for retrieval
+Wavelets and frames
+•	Emergence of simple-cell receptive field properties by learning a sparse code for natural images code
+•	A Wavelet Tour of Signal Processing  Wavelab
+•	Steerable PyramidmatlabPyrtools.tar.gz
+•	Rice Wavelet Toolbox rwt.zip
+•	Contourlet and Ridgelet Toolbox    download
+•	Beamlet and Curvelet Toolbox    Beamlab
+•	Complex wavelet Toolbox    download
+•	Wavelet/bandelet Toolbox at Matlab Central
+•	MCALab
+•	Differentiation of discrete multidimensional signals code
+•	The finite ridgelet transform for image representation code
+•	Framing pyramids code
+•	Contourlet transform: an efficient directional multiresolution image representation code
+•	Directional multiscale modeling of images using the contourlet transform code
+•	The nonsubsampled contourlet transform: Theory, design, and applications code
+•	Multidimensional directional filter banks and surfaceletscode
+•	3D Discrete Shearlet Transform and Video Processing code
+Compressed Sensing
+•	l1-Magic
+•	SparseLab
+•	GPSR
+•	ell-1 LS: Simple Matlab Solver for ell-1-Regularized Least Squares Problems
+•	sparsify
+•	MPTK: Matching Pursuit Toolkit
+•	Bayesian Compressive Sensing
+•	SPGL1: A solver for large scale sparse reconstruction
+•	sparseMRI
+•	FPC
+•	CVX
+•	Chaining Pursuit
+•	Regularized OMP
+•	SPARCO: A toolbox for testing sparse reconstruction algorithms
+•	TwIST
+•	Compressed Sensing Codes
+•	Fast CS using SRM
+•	FPC_AS
+•	Fast Bayesian Matching Pursuit (FBMP)
+•	SL0
+•	Sparse recovery using sparse matrices
+•	PPPA
+•	Compressive sensing via belief propagation
+•	SpaRSA
+•	KF-CS: Kalman Filtered CS (and other sequential CS algorithms)
+•	Fast Bayesian CS with Laplace Priors
+•	YALL1
+•	TVAL3
+•	RecPF
+•	Basis Pursuit DeQuantization (BPDQ)
+•	k-t FOCUSS
+•	Sub-Nyquist sampling: The Modulated Wideband Converter
+•	Threshold-ISD
+•	A Sparse Learning Package
+•	Model-based Compressive Sensing Toolbox
+•	Sparse Modeling Software
+•	Spectral Compressive Sensing Toolbox
+•	CS-CHEST: A MATLAB Toolbox for Compressive Channel Estimation
+•	DictLearn: A MATLAB Implementation for Dictionary Learning
+•	SPAMS
+•	Peformance benchmark of l1-optimization algorithms
+•	BM3D-based compressed sensing
+•	Compressed sensing using belief propagation
+•	Model-based Compressed Sensing
+•	Bayesian Compressive Sensing
+•	Latent Variable Graphical Model Selection via Convex Optimization code
+HDR/RGBD imaging
+•	HDR image rendering using a retinex-based adaptive filter
+•	Digital Camera Workflow for HDR Images Using a Model of Retinal Processing
+•	HDR image rendering by iCAM06 model
+•	Rafal Mantiuk's research on HDR imaging
+•	Binocular Tone Mapping
+•	High dynamic range imaging and tonemapping
+•	Indoor Segmentation and Support Inference from RGBD Images
+•	Unsupervised Feature Learning for RGB-D Based Object Recognition
+•	Image Guided Depth Map Upsampling
+Biomedical Imaging
+•	SparseMRI Toolbox
+•	Image reconstruction toolbox
+•	medical image registration
+•	Level set based medical image segmentation
+•	Gradient vector flow
+•	Compressed sensing image reconstruction via recursive spatially adaptive filtering
+•	multiresolution celluar image classification
+•	multirate fluorescence microscopy image acquisition
+•	Nonlocal MRI Upsampling
+•	Joint image reconstruction and sensitivity estimation in SENSE (JSENSE) code
+•	Nonlinear GRAPPA: a kernel approach to parallel MRI reconstruction code
+•	MR image reconstruction from highly undersampled k-space data by dictionary learning
+•	k-t FOCUSS
+•	k-t SLR: Accelerated dynamic MRI using low rank and sparse penalties
+•	Low-Rank Modeling of Local k-Space Neighborhoods (LORAKS) for Constrained MRI
+•	k-t SPARSE SENSE
+•	ESPIRiT: Programming Library and Software Toolbox for Compressed Sensing and Parallel Imaging
+2D Phase Unwrapping
+•	Graph cut based 2D Phase unwrapping   code
+•	Unwrapping MR phase images by a Markov random field model code
+•	 Satellite radar interferometry - Two - dimensional phase unwrapping code
+•	Phase unwrapping algorithms for radar interferometry:residue-cut, least-squares, and synthesis algorithms code
+DTI and fiber tractography
+•	DSI Studio
+•	FMRIB
+•	dtiQuery
+•	Camino
+•	NAMIC
+Data Clustering
+•	Unsupervised learning of finite mixture models code
+•	Affinity propagation
+•	On Spectral Clustering: Analysis and an algorithm codecode2 code3
+•	Nonnegative matrix factorization (NMF) code2 code3
+•	Computing nonnegative tensor factorizations
+•	Fast kmeans via triangle inequality
+•	FastANN and FastCluster for approximate kmeans
+•	kdtree-based NN/kNN search fast kNN search code2
+•	RANSAC toolbox for robust fitting
+•	Clustering Through Ranking On Manifolds code
+•	Correlation clustering optimization
+•	Hybrid Linear Modeling via Local Best Flats code
+Stereo matching& Multiview geometry
+•	A taxonomy and evaluation of dense two-frame stereo correspondence algorithms code
+•	Graph cut based stereo matching    code
+•	Belief propagation based stereo matching code
+•	A roadmap to the integration of early visual modules  Code
+•	Adaptive support-weight approach  Code
+•	Energy minization based stereo matching
+•	Energy Based Multiple Model Fitting for Non-Rigid Structure from Motion code
+•	Recognizing Scene Viewpoint using Panoramic Place Representation
+•	A Closed-Form Solution to Uncalibrated Photometric Stereo via Diffuse Maxima
+•	Patch-based Multi-view Stereo (PMVS)
+•	Library for Efficient Large-scale Stereo Matching
+Graphics, Cartoons,Motion&3D
+•	Apparent Layer Operations for the Manipulation of Deformable Objects
+•	2.5D cartoon models
+•	3D modeling with sihouettes
+•	Real-time Large-deformation Substructuring
+•	Generalized biped walking control
+•	Locomotion Skills for Simulated Quadrupeds
+•	Action Recognition from a Distributed Representation of Pose and Appearance
+•	RECON: Scale-Adaptive Robust Estimation via Residual Consensus code
+•	How Do Humans Sketch Objects?
+•	Manifold Exploration: A Markov Chain Monte Carlo technique for rendering scenes with difficult specular transport
+•	Exploring Collections of 3D Models using Fuzzy Correspondences
+•	Illuminant Chromaticity from Image Sequences
+•	Network Principles for SfM: Disambiguating Repeated Structures with Local Context
+ 
+Machine learning&Neural Networks
+•	Resource collection at UC-Merced
+•	Belief propagation/Sum-Product Algorithm code
+•	Deep Boltzmann Machines
+•	Shape Boltzmann machine: a strong model of object shapes
+•	Support vector machine
+•	Liblinear for large linear classification
+•	Object detection with Boosting
+•	Convolutional/Deconvolutional networks
+•	Hopfield networks code
+•	Self-organizing map (SOM) Toolbox
+•	Reservoir Computing Toolbox
+•	Polychronization: Computation With Spikes
+•	Slowly coupled oscillators: phase dynamics and sync
+•	Liquid State Machines(LSM) code
+•	Sparse Coding Neural Gas code
+•	Echo state networks for harnessing nonlinearity code
+•	Fast Approximate Nearest Neighbors with Automatic Algorithm Configuration
+•	Sum-Product Networks: A New Deep Architecture code
+•	Deformable graph matching code
+Blind source separation
+•	Shiro Ikeda's page of Blind Source Separation
+•	Independent Component Analysis by JV Stone
+•	Blind source separation via Independent component analysis
+•	ICALab for image processing
+•	Separating a Real-Life Nonlinear Image Mixture
+Camera calibration
+•	A toolbox containing several camera calibration techniques
+•	A flexible new technique for camera calibration
+•	Geometric Camera Calibration Using Circular Control Points
+•	A New Mirror-based Extrinsic Camera Calibration Using an Orthogonality Constraint
+Sampling&Physics-based Simulation
+•	Poisson-disk sampling
+•	Filtering solid Gabor noise
+•	Gabor Noise by Example
+•	Guided Exploration of Physically Valid Shapes for Furniture Design
+•	Efficient Geometrically Exact Continuous Collision Detection
+•	Illuminant Chromaticity from Image Sequences
+Evolutionary computing/Optimization
+•	Ant colony optimization
+•	Genetic algorithm toolbox
+•	Particle Swarm Optimization Toolbox
+•	Cache-efficient graph cuts on structured grids
+Networking Research
+•	The network simulator (ns-2)
+•	NetSim at Tetcos
+•	LBNL's software releases
+Miscellaneous
+•	Simple model of spiking neurons spike train analysis
+•	Visual pattern recognition by moment invariants code
+•	Direct LS-based ellipsis fitting  code
+•	DACE: a MATLAB Kriging toolbox
+•	Inference package for undirected graphical models
+•	Kernel smoothing toolbox
+•	CMU statistics library collections
+•	Rice DSP software release
+•	Complex network toolbox
+•	DistLearnKit: a MATLAB Toolkit for distance metric learning
+•	Subspace segmentation source code distribution
+•	Multiview geometry and 3D reconstruction
+•	A probabilistic image jigsaw puzzle solver
+•	Non-Iterative Approach for Fast and Accurate Vanishing Point Detection code
+•	Affine registration of 2d point sets
+•	Rotation Invariant Nonrigid Point Set Matching in Cluttered Scenes code
+•	Tensor Product model transformation (for control design)
+•	N-way toolbox (more versatile than the above one but slower)
+•	Simple Formulas For Quasiconformal Plane Deformations
+•	An Analytic Model for Full Spectral Sky-Dome Radiance
+•	Implementation of a Low-Depth of Field Picture Classifier
+•	Decoding, Calibration and Rectification for Lenselet-Based Cameras
+Links to other communities' reproducible research effort
+•	Geostatistics toolbox mgstat DACE
+•	Error Correcting Codes (ECC)
+•	Face recognition software at face-rec.org
+•	Computer graphics graphics papers on the web
+•	Computer vision CV papers on the web
+•	Machine learning
+•	Google Sites on Compressed Sensing
+•	Google Sites on Matrix Factorization
+•	DMOZ Open Directory Project
+•	MATLAB toolbox collection at Plymouth
+•	Neurophysiological data analysis
+•	VLFeat library for open-source CV
+•	Algorithms and source code for Quality&Technology
+•	Video-based human action detection resources
+•	Data compression resources
+•	Deep learning (including DBM and RBM)
+•	Computational Topology
+•	Open Remote Sensing Website
+Links to reproducible books/journals/tutorials
+•	Image Processing Online (IPOL)
+•	Gradient Domain Manipulation Techniques in Vision and Graphics
+•	Statistical and Structural Recognition of Human Actions
+•	Distance functions and metric learning
+•	Feature Learning for Image Classification
+•	Recognizing and Learning Object Categories
+•	Physics-Based Human Motion Modelling for People Tracking
+•	3d Shape Reconstruction from Photographs: a Multi-View Stereo Approach
+•	Deblurring Images: Matrices, Spectra, and Filtering
+•	Natural image statistics
+•	Spikes, decisions & actions
+•	Multiple view geometry in computer vision
+•	Collective Animal Behavior
+•	Signal Processing Techniques for Spike Train Analysis using MatLab
+•	Image Processing Online (IPOL) (many excellent c-coded source codes)
+Links to other individual's reproducible research
+•	Abhinav Gupta 's research code release
+•	Adrian Barbu's research codes release
+•	Al Hero's Lab and his reproducible research
+•	Alexei Efros' research codes release
+•	Allen Yang's research codes release
+•	Amir Beck's work on optimization theory and applications
+•	Amir Saffari's reproducible reseach code releases
+•	Amit Agrawal's Matlab and C codes
+•	Anand Rangarajan 's matlab codes on his reproducibleresearch
+•	Anat Levin's matlab codes release
+•	Andrew Davison's work on Computational neuroscience
+•	Ann Lee's Diffusion maps and treelet
+•	Andrew Zisserman's visual geometry group source codes
+•	Antonio Torralba's research codes release
+•	Ashok Veeraraghavan's reproducible research code release
+•	Ayan Chakrabarti's reproducible research code release
+•	Bahadir Gunturk's research code release
+•	Bill Freeman's software release on his group's reproducibleresearch
+•	Bob Kass' research codes on neuronal data analysis
+•	Ce Liu's software release on his reproducible research
+•	Chih-Chung Hsu's research code release
+•	Chih-Jian Lin's machine learning software release
+•	Chih-Yuan Yang's research code release
+•	Christopher Kanan's reproducible research code release
+•	Chuck Anderson's matlab codes on NNs and reinforcement learning
+•	Chunming Li's research code release
+•	Claude Knaus' research codes release
+•	Dafeng Sun's matlab codes release
+•	Dan Ellis' MATLAB Audio Processing Examples
+•	Daniel DeMenthon's research code release
+•	Daniel Huttenlocher 's research code release
+•	Daniel Zoran's research code release
+•	Danny Harari's software release
+•	David Heeger's toolboxes
+•	Deqing Sun's reproducible research code release
+•	Derek Hoiem's research software release
+•	Deva Ramanan's work on object recognition
+•	Dror Baron's research software release
+•	Dimitri Van De Ville 's research codes release
+•	Emmanuel Candes' software release
+•	Emanuel Todorov's research codes release
+•	EPFL CVLab's research codes release
+•	Eugene M. Izhikevich's matlab codes on NNs
+•	Fei-fei Li's research code release
+•	Gaofeng Meng's research code release
+•	Guoping Qiu's research codes release
+•	Graham Taylor's source codes release
+•	Guy Gilboa's matlab codes on PDE-based image processing
+•	Haibin Ling's research codes release
+•	Haichao Zhang's research codes release
+•	Hanchun Peng's software release
+•	Hao Jiang's research code release
+•	H.J. Seo's interesting collection of everything
+•	Honglak Lee's research code release
+•	Huchuan Lu's research codes release
+•	Huifung Poo's research codes release
+•	Human sensing @CMU's software release
+•	INRIA LEAR research codes release
+•	IPL (Politechnico di Torino)'s research codes release
+•	Jason Corso's research codes release
+•	Jalal Fadili's source codes on sparse representation
+•	James Hays' research code release
+•	Javier Portilla's research codes release
+•	Jelena Kovacevic's bimagicLab: Software
+•	Jeffrey A. Fessler's matlab codes release
+•	Jia-bin Huang's Awesome Computer Vision website
+•	Jian Sun's research code release
+•	Jian Zhang's research code release
+•	Jianbo Shi's software release
+•	JianChao Yang's source codes on image classification and super-resolution
+•	Jianxiong Xiao's research codes release
+•	Jiaya Jia's programs and executables
+•	Jieping Ye's research codes release
+•	John Paisley's research code release
+•	Jon Wellner's work on statistics
+•	Jose M. Bioucas Dias' research codes release
+•	Julien Mairal's research code release
+•	Jun Li's research codes release
+•	Junzhou Huang's research codes release
+•	Justin Haldar's research code release
+•	Kai Yu's reproducible research codes release
+•	Kaihua Zhang's research code release
+•	Keigo Hirakara's research codes release
+•	Kilian Q. Weinberger 's research code release
+•	Kevin Murphy's Bayes Net Toolbox for Matlab
+•	Kyoung Mu Lee 's software release
+•	Laurens van der Maaten's software collection
+•	Laurent Perrinet's SparseHebbianlearning source codes
+•	Lawrence Carin's research code release
+•	LCAV's reproducible research at EPFL
+•	LEAR's learning and recognition in vision
+•	Lei Zhang's MATLAB codes releases
+•	Leo Grady's matlab codes on his reproducible research
+•	Leslie Ying's research codes release
+•	Lina Karam's research software release
+•	Mahdi Soltanolkotabi 's research code release
+•	Malcolm A. MacIver's AnimalLab
+•	Marco Zuliani's reproducible research codes release
+•	Mariana S. C. Almeida 's reproducible research code release
+•	Mark A. Davenport's research code release
+•	Mark Schmidt's reseach on learning on probabilistic graphical models
+•	MATTHIAS J. EHRHARDT's research code release
+•	Matthew Zeiler's reproducible research code release
+•	MD Anderson Cancer Center: Bioinformatics
+•	Michael Elad's source code collection on his research
+•	Michael J. Brown's research codes release
+•	Michal Cernansky's research code release
+•	Michael Lustig's research code release
+•	Miguel Á. Carreira-Perpiñán 's research software release
+•	Mikel Rodriguez's source codes release
+•	Minmin Chen's reproducible research code release
+•	Ming-ming Chen's reproducible research code release
+•	Ming-Hsuan Yang's reproducible research works
+•	Mingyuan Zhou's research codes release
+•	Naiyan Wang's research codes release
+•	Neil Lawrence's reproducible research in machine learning
+•	Ofir Pele's research codes release
+•	Onur Guleryuz's research codes release
+•	Owen Carmichael's software release
+•	Pascal Getreuer's software release
+•	Patrik O Hoyer's source code collection on his reproducibleresearch
+•	Paven Turaga's research code release
+•	Pedro Domingos' research codes release
+•	PF Felzenszwalb 's research codes release
+•	Penn State LPAC research code release
+•	Peter Getreuer's reproducible research code release
+•	Peter Kovesi's matlab functions for CV and image processing
+•	Peyman Milanfar's research code release
+•	Philipp Krahenbuhl's research codes release
+•	Qi Wei's research code release
+•	Qingxiong Yang's research codes release
+•	Quoc V. Le's research codes release
+•	Rene Vidal's Visionlab reproducible research code release
+•	Raj Gupta's reproducible research code release
+•	Radu Timofte's research code release
+•	Raquel Urtasun 's research codes release
+•	Rick Chartland's release on his reproducible research
+•	Robert Nowak's source code release
+•	Ruslan Salakhutdinov's research codes release
+•	Scott Acton's research software releases
+•	Shai Bagon's Matlab Code
+•	Shaoting Zhang's reproducible research code release
+•	Simoncelli's LCV reproducible research codes release
+•	Sinisa Todorovic's reproducible research codes release
+•	Song-chun Zhu's source codes on image segmentation and active basis
+•	Stanley Chan's research codes release
+•	Takumi Kobayashi's research code release
+•	Thomas Brox's research codes release
+•	Tony Xu Han's reproducible research code release
+•	UCF vision lab source code collection
+•	UIUC's salient patch feature collection
+•	USC's iLab Neuromorphic Vision C++ Toolkit
+•	UWO vision lab reproducible research code release
+•	Vanderbilt's StatReport
+•	Vladimir Kolmogorov's research codes release
+•	Wavelab (at Univ. of Salzburg) software release
+•	WILLOW's research code release
+•	Wotao Yin's research code release
+•	Xavier Bresson's source codes accompanying his papers on image processing
+•	Xiaodi Hou's research codes release
+•	Xiaofei He's dimensionality reduction source code collection
+•	Xiaofeng Ren's research codes release
+•	Xiaogang Wang's research codes release
+•	Xiaolin Wu's research codes release
+•	Xiaoming Huo's software release
+•	Xiaoou Tang's MM Lab research code release
+•	Xiaowei Zhou's research code release
+•	Xubo Song's matlab codes on her reproducible research
+•	Yair Weiss' research codes release
+•	Yi Ma's source code collection on his reproducible research
+•	Yi Wang's research codes release
+•	York vision research center's software release
+•	Yu-wing Tai's reproducible research code releases
+•	Yuanjie Zheng's source codes release
+•	Yue M Lu's source codes on his reproducible research
+•	Yue Wang at VT-CBIL's research code release
+•	Zhilin Zhang's research codes release
+•	Zhoulin Jiang's research code release
+•	Zhuowen Tu's research code releases
