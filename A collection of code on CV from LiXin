@@ -1,8 +1,15 @@
 Image denoising
 •	Bayesian Structured Sparse Coding (BSSC)
+http://www.csee.wvu.edu/~xinl/demo/IJCV/BSSC_Exps.htm
 •	Wavelet-based soft/hard thresholding and TI denoising Wavelab
-•	Spatially adaptive image denoising under overcomplete expansion   SA-OE
+http://www-stat.stanford.edu/~donoho/Reports/1995/TIDeNoise.pdf
+•	Spatially adaptive image denoising under overcomplete expansion
+http://www.csee.wvu.edu/~xinl/papers/ICIP2000b.pdf
+SA-OE
+http://www.csee.wvu.edu/~xinl/code/denoise.zip
 •	Low-complexity image denoising based on statistical modeling of wavelet coefficients code
+http://www.kozintsev.net/papers/jounal_05.pdf
+http://www.kozintsev.net/soft/denoising.zip
 •	Bayesian Least-Square Gaussian Scalar Mixture  BLS-GSM
 •	Wavelet-domain HMM for image denoising  WHMT
 •	Fields of experts model for image denoising  FoE
