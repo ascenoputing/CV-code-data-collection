@@ -1,0 +1,94 @@
+CVonline
+
+http://homepages.inf.ed.ac.uk/rbf/CVonline
+http://homepages.inf.ed.ac.uk/rbf/CVonline/unfolded.htm
+http://homepages.inf.ed.ac.uk/rbf/CVonline/CVentry.htm
+
+Markov Random Field Modeling in Computer Vision
+http://www.cbsr.ia.ac.cn/users/szli/mrf_book/book.html
+
+Handbook of Face Recognition (PDF)
+http://www.umiacs.umd.edu/~shaohua/papers/zhou04hfr.pdf
+ 
+张正友的有关参数鲁棒估计著作：Parameter Estimation Techniques:A Tutorial with Application to Conic Fitting
+http://research.microsoft.com/~zhang/INRIA/Publis/Tutorial-Estim/Main.html
+
+Andrea Fusiello“计算机视觉中的几何”教程：Elements of Geometric Computer Vision
+http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/FUSIELLO4/tutorial.html#x1-520007
+ 
+有关马尔可夫蒙特卡罗方法的资料：An introduction to Markov chain Monte Carlo
+http://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/SENEGAS/mcmc.html
+
+Markov Chain Monte Carlo for Computer Vision— A tutorial at ICCV05
+http://civs.stat.ucla.edu/MCMC/MCMC_tutorial.htm
+ 
+有关独立成分分析（Independent Component Analysis , ICA）的资料：
+An ICA-Page
+http://www.cnl.salk.edu/~tony/ica.html
+Fast ICA
+http://www.cis.hut.fi/projects/ica/fastica/
+
+The Kalman Filter (介绍卡尔曼滤波器的终极网页)
+http://www.cs.unc.edu/~welch/kalman/index.html
+
+Cached k-d tree search for ICP algorithms
+http://kos.informatik.uni-osnabrueck.de/download/3dim2007/paper.html
+ 
+几个计算机视觉研究工具
+Machine Vision Toolbox for Matlab
+http://www.petercorke.com/Machine Vision Toolbox.html
+
+
+Matlab and Octave Function for Computer Vision and Image Processing
+http://www.csse.uwa.edu.au/~pk/research/matlabfns/
+Bayes Net Toolbox for Matlab
+http://www.cs.ubc.ca/~murphyk/Software/BNT/bnt.html
+
+
+OpenCV (Chinese)
+http://www.opencv.org.cn/index.php/首页
+Gandalf (A Computer Vision and Numerical Algorithm Labrary)
+http://gandalf-library.sourceforge.net/
+CMU Computer Vision Home Page
+http://www.cs.cmu.edu/afs/cs/project/cil/ftp/html/vision.html
+Machine Learning Resource Links
+http://www.cse.ust.hk/~ivor/resource.htm
+The Bayesian Filtering Library
+http://www.orocos.org/bfl
+Optical Flow Algorithm Evaluation (提供了一个动态贝叶斯网络框架，例如递归信息处理与分析、卡尔曼滤波、粒子滤波、序列蒙特卡罗方法等，C++写的)
+http://of-eval.sourceforge.net/
+MATLAB code for ICP algorithm
+http://www.usenet.com/newsgroups/comp.graphics.visualization/msg00102.html
+
+牛人主页：
+朱松纯 （Song-Chun Zhu）
+http://www.stat.ucla.edu/~sczhu/
+David Lowe (SIFT) (很帅的一个老头哦 ^ ^)
+http://www.cs.ubc.ca/~lowe/
+Andrea Vedaldi (SIFT)
+http://vision.ucla.edu/~vedaldi/index.html
+Pedro F. Felzenszwalb
+http://people.cs.uchicago.edu/~pff/
+Dougla Dlanman (Brown的一个研究生，在其主页上搜集了大量算法教程和源码)
+http://mesh.brown.edu/dlanman/courses.html
+Jianbo Shi (Ncuts 的始作俑者)
+http://www.cis.upenn.edu/~jshi/
+
+Active Vision Group (Oxford的一个机器视觉研究团队，特色是SLAM，监视，导航)
+http://www.robots.ox.ac.uk/ActiveVision/index.html
+Juyang Weng（机器学习的专家，Autonomous Mental Development 是其特色）
+http://www.cse.msu.edu/~weng/
+测试图片或视频：
+Middlebury College‘s Stereo Vision Data Set
+http://cat.middlebury.edu/stereo/data.html
+Intelligent Vehicle:
+IVSource
+www.ivsoruce.net
+Robot Car
+http://www.plyojump.com/robot_cars.html
+How to Build a Robot: The Computer Vision Part
+http://www.societyofrobots.com/programming_computer_vision_tutorial.shtml
+
+
+
+
